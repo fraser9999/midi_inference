@@ -1,8 +1,4 @@
----
 
-# 📘 **README.md**
-
-```markdown
 # MIDI Transformer Inference Tool
 
 This project provides a Python-based MIDI generation tool using a GPT-like Transformer model.  
@@ -149,3 +145,4 @@ If you'd like, I can also generate:
 ✅ Badges (PyPI, license, build status)
 ✅ A more detailed README with examples, screenshots, or diagrams
 Just tell me!
+
