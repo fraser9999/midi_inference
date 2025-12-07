@@ -1,0 +1,11 @@
+# please install torch gpu version
+--index-url https://download.pytorch.org/whl/cu118
+
+torch==2.0.1 
+torchvision==0.15.2 
+torchaudio==2.0.2 
+mido
+python-rtmidi     # optional but often required by mido for playback
+numpy==1.26.4
+argparse
+pygame
