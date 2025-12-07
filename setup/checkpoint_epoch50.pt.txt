@@ -1,1 +1,1 @@
-please download the file checkpoint_epoch50.pt from the zip repository and copy into setup folder, thanks
+please download the file checkpoint_epoch50.pt from the zip Release and copy into setup folder, thanks
